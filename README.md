@@ -1,2 +1,3 @@
 # Hello-World
-1st Repository
+
+My commitment to learn Solidity start here :)
